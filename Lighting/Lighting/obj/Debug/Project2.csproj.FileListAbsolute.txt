@@ -1,0 +1,10 @@
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt2\Projekt 2 Damian Rakus\Project2 sendable\Project2\bin\Debug\Project2.exe.config
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt2\Projekt 2 Damian Rakus\Project2 sendable\Project2\bin\Debug\Project2.exe
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt2\Projekt 2 Damian Rakus\Project2 sendable\Project2\bin\Debug\Project2.pdb
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt2\Projekt 2 Damian Rakus\Project2 sendable\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt2\Projekt 2 Damian Rakus\Project2 sendable\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt2\Projekt 2 Damian Rakus\Project2 sendable\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt2\Projekt 2 Damian Rakus\Project2 sendable\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt2\Projekt 2 Damian Rakus\Project2 sendable\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt2\Projekt 2 Damian Rakus\Project2 sendable\Project2\obj\Debug\Project2.exe
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt2\Projekt 2 Damian Rakus\Project2 sendable\Project2\obj\Debug\Project2.pdb

@@ -1,0 +1,13 @@
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt3\Project3\Project3\bin\Debug\Project3.exe.config
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt3\Project3\Project3\bin\Debug\Project3.exe
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt3\Project3\Project3\bin\Debug\Project3.pdb
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt3\Project3\Project3\obj\Debug\Project3.csprojAssemblyReference.cache
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt3\Project3\Project3\obj\Debug\Project3.Form1.resources
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt3\Project3\Project3\obj\Debug\Project3.Properties.Resources.resources
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt3\Project3\Project3\obj\Debug\Project3.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt3\Project3\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt3\Project3\Project3\obj\Debug\Project3.exe
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt3\Project3\Project3\obj\Debug\Project3.pdb
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt3\Project3\Project3\bin\Debug\MathNet.Numerics.dll
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt3\Project3\Project3\bin\Debug\MathNet.Numerics.xml
+C:\Users\Damian\Desktop\Uczelnia\Sem5\GK1\Projekt3\Project3\Project3\obj\Debug\Project3.csproj.CopyComplete

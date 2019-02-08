@@ -1,0 +1,13 @@
+C:\Users\Damian\Desktop\Uczelnia\git\ComputerGraphics\GraphicEngine\GraphicEngine\bin\Debug\Project 4.exe.config
+C:\Users\Damian\Desktop\Uczelnia\git\ComputerGraphics\GraphicEngine\GraphicEngine\bin\Debug\Project 4.exe
+C:\Users\Damian\Desktop\Uczelnia\git\ComputerGraphics\GraphicEngine\GraphicEngine\bin\Debug\Project 4.pdb
+C:\Users\Damian\Desktop\Uczelnia\git\ComputerGraphics\GraphicEngine\GraphicEngine\bin\Debug\MathNet.Numerics.dll
+C:\Users\Damian\Desktop\Uczelnia\git\ComputerGraphics\GraphicEngine\GraphicEngine\bin\Debug\MathNet.Numerics.xml
+C:\Users\Damian\Desktop\Uczelnia\git\ComputerGraphics\GraphicEngine\GraphicEngine\obj\Debug\GraphicEngine.csprojAssemblyReference.cache
+C:\Users\Damian\Desktop\Uczelnia\git\ComputerGraphics\GraphicEngine\GraphicEngine\obj\Debug\Project_4.Form1.resources
+C:\Users\Damian\Desktop\Uczelnia\git\ComputerGraphics\GraphicEngine\GraphicEngine\obj\Debug\Project_4.Properties.Resources.resources
+C:\Users\Damian\Desktop\Uczelnia\git\ComputerGraphics\GraphicEngine\GraphicEngine\obj\Debug\GraphicEngine.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\Uczelnia\git\ComputerGraphics\GraphicEngine\GraphicEngine\obj\Debug\GraphicEngine.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Uczelnia\git\ComputerGraphics\GraphicEngine\GraphicEngine\obj\Debug\GraphicEngine.csproj.CopyComplete
+C:\Users\Damian\Desktop\Uczelnia\git\ComputerGraphics\GraphicEngine\GraphicEngine\obj\Debug\Project 4.exe
+C:\Users\Damian\Desktop\Uczelnia\git\ComputerGraphics\GraphicEngine\GraphicEngine\obj\Debug\Project 4.pdb
